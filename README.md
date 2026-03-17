@@ -4,8 +4,6 @@ A browser-based modular synthesizer. No dependencies, no build step — open `sy
 
 ![Web Audio API](https://img.shields.io/badge/Web%20Audio%20API-supported-00ffe0?style=flat-square) ![Web MIDI API](https://img.shields.io/badge/Web%20MIDI%20API-Chrome%2FEdge-aa66ff?style=flat-square) ![Gamepad API](https://img.shields.io/badge/Gamepad%20API-supported-ff9933?style=flat-square) ![Single file](https://img.shields.io/badge/single%20file-HTML-ff4466?style=flat-square)
 
-**XY Synth** was built entirely through conversation — no IDE, no file browser, no manual edits. Every oscillator, knob, drag behavior, MIDI message handler and gamepad poll loop was written by **Claude (Sonnet 4.6)** incrementally across a single chat session, with each feature layered on top of the last without ever breaking what came before. The noise engine, the step sequencer, the convolution reverb, the floating module system, the i18n toggle — all of it assembled piece by piece from natural language requests, in a single HTML file, with no dependencies.
-
 ## Features
 
 ### XY Pad
@@ -101,8 +99,3 @@ Noise ──────────────────┘         └─�
 LFO modulates: oscillator frequency · amplitude · filter cutoff  
 MIDI / Gamepad override: pad position · filter · reverb · noise · BPM
 
----
-
-## License
-
-MIT
