@@ -101,3 +101,7 @@ Noise ──────────────────┘         └─�
 LFO modulates: oscillator frequency · amplitude · filter cutoff  
 MIDI / Gamepad override: pad position · filter · reverb · noise · BPM
 
+# License
+Copyright (C) 2026 Antonio Gallego de Torres
+This project is licensed under the GNU Affero General Public License v3.0 — see the LICENSE file for details.
+
